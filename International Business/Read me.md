@@ -2,7 +2,8 @@
 title: "International Business"
 output: pdf
 ---
-Notion notes can be found at: https://magical-potato-034.notion.site/a5a73e785b454862a9972ab50c6c3c3b?v=678e01d9c44f484d99bfd3800feda4ec&pvs=4
+Notion notes can be found at: https://magical-potato-034.notion.site/a5a73e785b454862a9972ab50c6c3c3b?v=678e01d9c44f484d99bfd3800feda4ec&pvs=4 
+
 ChatGPT explanations for previous year question paper solutions: https://chat.openai.com/share/060a46cd-fda8-49d0-9c89-4a99af35d409
 
 ## Comprehensive International Business Exam Preparation Resources
