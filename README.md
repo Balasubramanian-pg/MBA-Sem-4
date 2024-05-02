@@ -67,3 +67,4 @@
 
 **Remember, these notes are a starting point. Continuously strive to expand your knowledge beyond the classroom and develop your critical thinking, analytical, and problem-solving skills. By actively engaging with the material and seeking opportunities to practice your skills, you can position yourself for success in your future business endeavors.**
 
+Parii
